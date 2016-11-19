@@ -1,0 +1,146 @@
+{
+	"category_of_services": [
+		{
+			"category": "STI/STD Testing & Treatment",
+			"number_of_procedures": "4,218,149",
+			"percentage_of_procedures": "45%"
+		},
+
+		{
+			"category": "Contraception",
+			"number_of_procedures": "2,945,059",
+			"percentage_of_procedures": "31%"
+		},
+
+		{
+			"category": "Other Women’s Health Services",
+			"number_of_procedures": "1,190,408",
+			"percentage_of_procedures": "13%"
+		},
+
+		{
+			"category": "Cancer Screening and Prevention",
+			"number_of_procedures": "682,208",
+			"percentage_of_procedures": "7%"
+		},
+
+		{
+			"category": "Abortion Services",
+			"number_of_procedures": "323,999",
+			"percentage_of_procedures": "3%"
+		},
+
+		{
+			"category": "Other Services",
+			"number_of_procedures": "95,759",
+			"percentage_of_procedures": "1%"
+		}
+	],
+	"types_of_services": [
+		{
+			"type_of_service": "STI Tests, Women and Men",
+			"number_of_procedures": "3,533,522",
+			"category_of_services": "STI/STD Testing & Treatment"
+		},
+		{
+			"type_of_service": "Genital Warts (HPV) Treatments",
+			"number_of_procedures": "32,233",
+			"category_of_services": "STI/STD Testing & Treatment"
+		},
+		{
+			"type_of_service": "HIV Tests, Women and Men",
+			"number_of_procedures": "651,695",
+			"category_of_services": "STI/STD Testing & Treatment"
+		},
+		{
+			"type_of_service": "Other Treatments",
+			"number_of_procedures": "699",
+			"category_of_services": "STI/STD Testing & Treatment"
+		},
+		{
+			"type_of_service": "Reversible Contraception Clients, Women",
+			"number_of_procedures": "2,009,307",
+			"category_of_services": "Contraception"
+		},
+		{
+			"type_of_service": "Emergency Contraception Kits",
+			"number_of_procedures": "931,589",
+			"category_of_services": "Contraception"
+		},
+		{
+			"type_of_service": "Female Sterilization Procedures",
+			"number_of_procedures": "718",
+			"category_of_services": "Contraception"
+		},
+		{
+			"type_of_service": "Vasectomy Clients",
+			"number_of_procedures": "3,445",
+			"category_of_services": "Contraception"
+		},
+		{
+			"type_of_service": "Pap Tests",
+			"number_of_procedures": "271,539",
+			"category_of_services": "Cancer Screening and Prevention"
+		},
+		{
+			"type_of_service": "HPV Vaccinations",
+			"number_of_procedures": "24,063",
+			"category_of_services": "Cancer Screening and Prevention"
+		},
+		{
+			"type_of_service": "Breast Exams/Breast Care",
+			"number_of_procedures": "363,803",
+			"category_of_services": "Cancer Screening and Prevention"
+		},
+		{
+			"type_of_service": "Colposcopy Procedures",
+			"number_of_procedures": "20,736",
+			"category_of_services": "Cancer Screening and Prevention"
+		},
+		{
+			"type_of_service": "LEEP Procedures",
+			"number_of_procedures": "1,621",
+			"category_of_services": "Cancer Screening and Prevention"
+		},
+		{
+			"type_of_service": "Cryotherapy Procedures",
+			"number_of_procedures": "446",
+			"category_of_services": "Cancer Screening and Prevention"
+		},
+		{
+			"type_of_service":	"Pregnancy Tests",
+			"number_of_procedures": "1,172,989",
+			"category_of_services": "Other Women’s Health Services"
+		},
+		{
+			"type_of_service":	"Prenatal Services",
+			"number_of_procedures": "17,419",
+			"category_of_services": "Other Women’s Health Services"
+		},
+		{
+			"type_of_service":	"Abortion Procedures",
+			"number_of_procedures": "323,999",
+			"category_of_services": "Abortion Services"
+		},
+		{
+			"type_of_service": "Family Practice Services, Women and Men",
+			"number_of_procedures": "33,060",
+			"category_of_services": "Other Services"
+		},
+		{
+			"type_of_service": "Adoption Referrals to Other Agencies",
+			"number_of_procedures": "2,024",
+			"category_of_services": "Other Services"
+		},
+		{
+			"type_of_service": "Urinary Tract Infections Treatments",
+			"number_of_procedures": "55,912",
+			"category_of_services": "Other Services"
+		},
+		{
+			"type_of_service": "Other Procedures, Women and Men",
+			"number_of_procedures": "4,763",
+			"category_of_services": "Other Services"
+		}
+	]
+}

@@ -40,8 +40,8 @@ def convert_to_dollars(num):
 def main(argv):
   usage = 'usage: %prog [options] arg'
   parser = OptionParser(usage)
-  parser.add_option('-i', '--input', help='Location of the TSV input file', action='store', dest='input')
-  parser.add_option('-o', '--output', default='output.txt', help='Location of the output log file', action='store', dest='output')
+  parser.add_option('-i', '--input', help='input JSON file', action='store', dest='input')
+  parser.add_option('-o', '--output', default='data.csv', help='output CSV file', action='store', dest='output')
   
   (options, args) = parser.parse_args()
   if not options.input:

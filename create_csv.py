@@ -11,22 +11,22 @@ def transform_data(options):
   output_file = csv.writer(open(options.output, 'wb+'))
   
   output_file.writerow([
-    'Candidate', 
-    'Party', 
-    'Funds raised from Outside Groups',
-    'Funds raised by the Campaign Committee',
-    'Total funds raised'
+    'State',
+    'Percent Educational Attainment',
+    'Percent Peace Index',
+    'Percent Above Poverty Rate',
+    'Percent Non-religious'
   ])
 
-  candidates = input_file['data']['candidates']
+  data = input_file['data']
 
-  for candidate in candidates:
+  for d in data:
     output_file.writerow([
-      candidate['candidate'], 
-      candidate['party'],
-      convert_to_dollars(candidate['funds_raised']['outside_groups']),
-      convert_to_dollars(candidate['funds_raised']['campaign_committee']),
-      convert_to_dollars(candidate['funds_raised']['total'])
+      d['state'],
+      d['percent_educational_attainment'],
+      d['percent_peace_index'],
+      d['percent_above_poverty_rate'],
+      d['percent_non_religious']
     ])
 
 
@@ -51,7 +51,7 @@ def main(argv):
   else:
     transform_data(options)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
   main(sys.argv[1:])  
 
 

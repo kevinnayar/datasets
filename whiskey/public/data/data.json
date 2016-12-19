@@ -2604,12 +2604,12 @@
     {
       "direction":"desc",
       "sort":"age",
-      "title":"Oldest whiskies"
+      "title":"Oldest whiskeys"
     },
     {
       "direction":"asc",
       "sort":"age",
-      "title":"Newest whiskies"
+      "title":"Newest whiskeys"
     },
     {
       "direction":"desc",

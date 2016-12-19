@@ -296,7 +296,7 @@
       "image_url":"nikka-miyagikyo-single-malt.jpg",
       "name":"Miyagikyo Single Malt",
       "origin":"Japan",
-      "type":"Whiskey",
+      "type":"Whisky",
       "url":"http://www.nikka.com/eng/products/single-malt/miyagikyo.html",
       "description":"Using less peaty malt and distilled in a pot still heated by indirect steam, Miyagikyo single malt has an elegant fruitiness and a distinctive aroma with a strong Sherry cask influence.",
       "ratings":[
@@ -361,7 +361,7 @@
       "image_url":"hibiki-17-year-old.jpg",
       "name":"17 Years Old",
       "origin":"Japan",
-      "type":"Whiskey",
+      "type":"Whisky",
       "url":"http://whisky.suntory.com/en/products/hibiki/",
       "description":"With an amber color, this whiskey has fruity flavors such as peach, apricot, and melon. The palate has remnants of toffee, black cherry, and Mizunara (Japanese oak).",
       "ratings":[
@@ -962,7 +962,7 @@
       "image_url":"ranger-creek-rimfire-texas-single-malt.jpg",
       "name":"Rimfire Texas Single Malt",
       "origin":"United States",
-      "type":"Whiskey",
+      "type":"Whisky",
       "url":"http://www.drinkrangercreek.com/whiskey/small-caliber-series/ranger-creek-rimfire/",
       "description":"The nose of Rimfire brings about sweet tropical notes of ripe mango and dried banana with a hint of vanilla. The taste is smooth and delicate with a light malty sweetness.",
       "ratings":[
@@ -1019,7 +1019,7 @@
       "image_url":"balcones-1-texas-single-malt.jpg",
       "name":"'1' Texas Single Malt",
       "origin":"United States",
-      "type":"Whiskey",
+      "type":"Whisky",
       "url":"http://www.balconesdistilling.com/singlemalt",
       "description":"On the palate, layers of toasted malt and honey give way to mellow notes of baked pears and apples. A long finish with cinnamon and cloves.",
       "ratings":[
@@ -1513,7 +1513,7 @@
       "image_url":"amrut-indian-single-malt-whisky-cask-strength.jpg",
       "name":"Indian Single Malt Whisky Cask Strength",
       "origin":"India",
-      "type":"Whiskey",
+      "type":"Whisky",
       "url":"http://www.amrutwhisky.co.uk/validated/pages/aismwcs.html",
       "description":"Glorious bourbon notes fused with the richest of barley statements; Tastes of biscuit, fruit, citrus, toffee, and slightly tarry.",
       "ratings":[
@@ -1559,7 +1559,7 @@
       "image_url":"nikka-coffey-grain-whisky.jpg",
       "name":"Coffey Grain Whisky",
       "origin":"Japan",
-      "type":"Whiskey",
+      "type":"Whisky",
       "url":"http://www.nikkawhisky.eu/whiskies/coffey-grain/",
       "description":"The profile is carnival candy filled. Some vanilla and cinnamon are added to the flavors found along with honey wine and peaches.",
       "ratings":[
@@ -2208,7 +2208,7 @@
       "image_url":"prichards-single-malt-whiskey.jpg",
       "name":"Single Malt Whiskey",
       "origin":"United States",
-      "type":"Whiskey",
+      "type":"Whisky",
       "url":"http://prichardsdistillery.com/product/single-malt-whiskey/",
       "description":"Lots of fresh sweet corn, toasted almonds, allspice, nutmeg, toffee, cocoa, and cigar box on the nose and on the palate, with a lovely lingering finish.",
       "ratings":[
@@ -2257,7 +2257,7 @@
       "image_url":"rogue-oregon-single-malt-whiskey.jpg",
       "name":"Oregon Single Malt Whiskey",
       "origin":"United States",
-      "type":"Whiskey",
+      "type":"Whisky",
       "url":"http://rogue.com/spirits/single-malt-whiskey.php",
       "description":"The whiskey opens with an attractive aroma of floral honey, peach and mango. Medium-to-full bodied, the aromas slowly transition to lush, ripe fruit, and brown spice.",
       "ratings":[
@@ -2583,7 +2583,7 @@
     "Irish",
     "Rye",
     "Scotch",
-    "Whiskey"
+    "Whisky"
   ],
   "profiles":[
     "Floral",

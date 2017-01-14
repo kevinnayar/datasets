@@ -58,7 +58,64 @@
         "Spicy",
         "Sweet"
       ]
-    },    
+    },
+    {
+      "age":13,
+      "brand":"Wild Turkey",
+      "price":125,
+      "event_number":26,
+      "event_date":"01/14/2017",
+      "image_url":"wild-turkey-diamond-anniversary.jpg",
+      "name":"Diamond Anniversary",
+      "origin":"United States",
+      "type":"Bourbon",
+      "url":"http://wildturkeybourbon.com/about/our-products/",
+      "description":"The spice is upfront and combines forces with notes of wood, caramel, rye, cinnamon, corn, dried dark fruit, and a touch of honey.",
+      "ratings":[
+        {
+          "name":"Alex Zelenak",
+          "score":70
+        },
+        {
+          "name":"Isaac Oster",
+          "score":80
+        },
+        {
+          "name":"Jason Smith",
+          "score":70
+        },
+        {
+          "name":"Joe Boutros",
+          "score":50
+        },
+        {
+          "name":"John Underwood",
+          "score":60
+        },
+        {
+          "name":"Josh Shepherd",
+          "score":70
+        },
+        {
+          "name":"Kevin Nayar",
+          "score":80
+        },
+        {
+          "name":"Liam Wiles",
+          "score":70
+        },
+        {
+          "name":"Will Semons",
+          "score":70
+        }
+      ],
+      "average_rating":69,
+      "profiles":[
+        "Fruity",
+        "Honey",
+        "Sweet"
+      ]
+    },
     {
       "age":7,
       "brand":"Green Spot",

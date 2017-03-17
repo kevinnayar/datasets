@@ -1,5 +1,5 @@
 {
-  "data": [
+  "regions": [
     {
       "name": "speyside",
       "latitude": 57.53,
@@ -4976,51 +4976,7 @@
       ]
     }
   ],
-  "region": [
-    {
-      "name": "midlands",
-      "zoom": 8,
-      "latitude": 56.4,
-      "longitude": -4.0
-    },
-    {
-      "name": "speyside",
-      "zoom": 9,
-      "latitude": 57.53,
-      "longitude": -3.1
-    },
-    {
-      "name": "islay",
-      "zoom": 10,
-      "latitude":55.75,
-      "longitude": -6.22
-    },
-    {
-      "name": "islands",
-      "zoom": 6,
-      "latitude": 57.5,
-      "longitude": -4.15
-    },
-    {
-      "name": "lowlands",
-      "zoom": 8,
-      "latitude": 55.6,
-      "longitude": -3.55
-    },
-    {
-      "name": "highlands",
-      "zoom": 7,
-      "latitude": 57.5,
-      "longitude": -3.55
-    },
-    {
-      "name": "campbeltown",
-      "zoom": 13,
-      "latitude": 55.44,
-      "longitude": -5.61
-    }
-  ],
-  "taste": [
+  "characteristics": [
     "body",
     "honey",
     "floral",

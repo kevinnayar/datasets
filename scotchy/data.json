@@ -4977,18 +4977,54 @@
     }
   ],
   "characteristics": [
-    "body",
-    "honey",
-    "floral",
-    "fruity",
-    "malty",
-    "medicinal",
-    "nutty",
-    "smokey",
-    "spicy",
-    "sweet",
-    "tobacco",
-    "winey"
+    {
+      "name": "body",
+      "description": "Refers to mouthfeel. The tactile feel of the malt in the mouth. Largely a reflection of the physical qualities, but can also be significantly affected by flavor elements."
+    },
+    {
+      "name": "honey",
+      "description": "Reminiscent of honey. Contrast with 'sweet'."
+    },
+    {
+      "name": "floral",
+      "description": "Reminiscent of flowers and herbal elements."
+    },
+    {
+      "name": "fruity",
+      "description": "Distinct flavors of fruits such as cherries, green apples, grapes, raisins, etc."
+    },
+    {
+      "name": "malty",
+      "description": "Refers to the aroma and flavor of malted barley. 'Malt' can also be an abbreviation of 'Single Malt Scotch Whisky'."
+    },
+    {
+      "name": "medicinal",
+      "description": "Evocative of memories of liquid medicines."
+    },
+    {
+      "name": "nutty",
+      "description": "Evocative of the taste of nuts, or reminiscent of the alkaloid qualities of some nuts."
+    },
+    {
+      "name": "smokey",
+      "description": "A peat fire has traditionally provided the heat to dry the malted barley used in Scotch whisky production. A significant flavor element in many malts, this heavy, smoky, somewhat vegetative flavor is imparted by the distillery water having run over peat, the peat smoke used in the drying process, or both."
+    },
+    {
+      "name": "spicy",
+      "description": "Reminiscent of spices such as cinnamon, clove, or nutmeg."
+    },
+    {
+      "name": "sweet",
+      "description": "Either sweet in itself, or reminiscent of sweetness. Frequently implies a 'wet' feeling in the mouth."
+    },
+    {
+      "name": "tobacco",
+      "description": "Different from the peatiness of the whisky. It’s reminiscent of bonfires, leaf fires, log fireplaces, cigar tobacco, pipe tobacco, or something else."
+    },
+    {
+      "name": "winey",
+      "description": "Reminiscent of wine."
+    }
   ],
   "sources": [
     "https://www.mathstat.strath.ac.uk/outreach/nessie/nessie_whisky.html",

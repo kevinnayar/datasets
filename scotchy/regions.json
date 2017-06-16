@@ -1,0 +1,295 @@
+{
+  "regions":
+  [
+    {
+      "name": "speyside",
+      "latitude": 57.53,
+      "longitude": -3.1,
+      "flavors": "Varies, but generally smoky and deeply complex with hints of apple, nutmeg and vanilla.",
+    "description": "The largest amount of Scotch production from the highest number of distilleries comes from Speyside, in the northeast of the country. Despite not being too large of an area, this is where around 50% of all Scotch is produced. Speyside's product comes from the 50 distilleries, over half of the country's total number of Scotch producers. Due to the sheer volume of distilleries, there's a huge amount of difference in the character of Speyside Scotch, from lighter grassy numbers, to the sweeter, richer, sherried type. The single   malts from the area are notable for their refined smokiness and complexity.",
+      "average_ratings":
+      [
+        {
+          "name": "body",
+          "score": 2.08
+        },
+        {
+          "name": "honey",
+          "score": 1.46
+        },
+        {
+          "name": "floral",
+          "score": 1.92
+        },
+        {
+          "name": "fruity",
+          "score": 1.9
+        },
+        {
+          "name": "malty",
+          "score": 1.85
+        },
+        {
+          "name": "medicinal",
+          "score": 0.05
+        },
+        {
+          "name": "nutty",
+          "score": 1.59
+        },
+        {
+          "name": "smokey",
+          "score": 1.23
+        },
+        {
+          "name": "spicy",
+          "score": 1.36
+        },
+        {
+          "name": "sweet",
+          "score": 2.59
+        },
+        {
+          "name": "tobacco",
+          "score": 0.03
+        },
+        {
+          "name": "winey",
+          "score": 1.21
+        }
+      ]
+    },
+    {
+      "name": "highlands",
+      "latitude": 57.5,
+      "longitude": -3.55,
+    "flavors": "Because of just how large this area, the amount of variation is huge, but you can generally expect especially bold flavors,   including heather and dried fruit.",
+    "description": "If you roughly drew a line between Edinburgh and Glasgow, everything above that would be the Highlands. Geographically speaking, it's the largest whiskey producing area, which includes the cities of Inverness, Aberdeen and Dundee. They're much more spread out than in Speyside, but there are over 30 distilleries in the area. If you found yourself gamboling amid the thistle and quaffing a Scotch from here, the notes of peat, honey, and heather in a much more robust, dry body would shine through. But because of the sheer size of the land mass there is also a huge difference in flavor, like with Speyside. Distilleries nearer the coast – as you’d imagine -   make batches with a salty taste.",
+      "average_ratings":
+      [
+        {
+          "name": "body",
+          "score": 2.19
+        },
+        {
+          "name": "honey",
+          "score": 1.11
+        },
+        {
+          "name": "floral",
+          "score": 1.48
+        },
+        {
+          "name": "fruity",
+          "score": 1.85
+        },
+        {
+          "name": "malty",
+          "score": 1.78
+        },
+        {
+          "name": "medicinal",
+          "score": 0.74
+        },
+        {
+          "name": "nutty",
+          "score": 1.44
+        },
+        {
+          "name": "smokey",
+          "score": 1.67
+        },
+        {
+          "name": "spicy",
+          "score": 1.59
+        },
+        {
+          "name": "sweet",
+          "score": 2.04
+        },
+        {
+          "name": "tobacco",
+          "score": 0.11
+        },
+        {
+          "name": "winey",
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "name": "lowlands",
+      "latitude": 55.6,
+      "longitude": -3.55,
+      "flavors": "Floral tones like grass and honeysuckle pair with sweeter notes like toffee and cinnamon.",
+    "description": "This area is famous for utilizing the triple distillery method, which increases the alcohol content but leaves the final whiskey lighter, as it removes heavy components like oil and protein. You'll find it in the southernmost part of Scotland. There are, sadly, only three distilleries left in the area, all of which produce lighter single malts. They're known as \"The Lowland Ladies\" for   their fruity, floral flavor.",
+      "average_ratings":
+      [
+        {
+          "name": "body",
+          "score": 0.67
+        },
+        {
+          "name": "honey",
+          "score": 0.67
+        },
+        {
+          "name": "floral",
+          "score": 2.67
+        },
+        {
+          "name": "fruity",
+          "score": 2.33
+        },
+        {
+          "name": "malty",
+          "score": 2
+        },
+        {
+          "name": "medicinal",
+          "score": 0
+        },
+        {
+          "name": "nutty",
+          "score": 0.67
+        },
+        {
+          "name": "smokey",
+          "score": 0.67
+        },
+        {
+          "name": "spicy",
+          "score": 1.33
+        },
+        {
+          "name": "sweet",
+          "score": 2
+        },
+        {
+          "name": "tobacco",
+          "score": 0
+        },
+        {
+          "name": "winey",
+          "score": 0.33
+        }
+      ]
+    },
+    {
+      "name": "islay",
+      "latitude": 55.75,
+      "longitude": -6.22,
+      "flavors": "A mixture off brine, sea wood, smoke, and salt adds a distinctive and intense flavor. It's an acquired taste, highly peaty.",
+    "description": "This small island off the west coast of the mainland is only 25 miles long, but contains nine distilleries. To the uninitiated, their Scotch can be a bit intense, given that it packs a powerful wallop due to the quality of its peat (soil made of decayed moss matter). The level of smokiness a Scotch achieves is determined by the time and type of smoldering peat the barley is exposed to during its drying process. The peat on Islay, fed on a constant diet of rain and seaspray, is particularly pungent and adds a   strong smoky, earthy taste with a touch of salty seaweed.",
+      "average_ratings":
+      [
+        {
+          "name": "body",
+          "score": 2.71
+        },
+        {
+          "name": "honey",
+          "score": 0.71
+        },
+        {
+          "name": "floral",
+          "score": 1.14
+        },
+        {
+          "name": "fruity",
+          "score": 1.14
+        },
+        {
+          "name": "malty",
+          "score": 1.43
+        },
+        {
+          "name": "medicinal",
+          "score": 2.57
+        },
+        {
+          "name": "nutty",
+          "score": 1.29
+        },
+        {
+          "name": "smokey",
+          "score": 3.14
+        },
+        {
+          "name": "spicy",
+          "score": 1.43
+        },
+        {
+          "name": "sweet",
+          "score": 1.43
+        },
+        {
+          "name": "tobacco",
+          "score": 0.43
+        },
+        {
+          "name": "winey",
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "name": "campbeltown",
+      "latitude": 55.44,
+      "longitude": -5.61,
+      "flavors": "Among the brine and smoke, enthusiasts also praise the area's distinctive flavor of wet dog, also called wet wool.",
+    "description": "The small western coastal town of Campbelltown used to be the hub of Scotch distilling with early worldwide distribution. That is, until overproduction, American prohibition, and the depression hit sales hard. Purists still consider Campbeltown one of the most important zones of Scotch production, purely because of their huge impact at the turn of the 20th century on popularizing the stuff. Single malts made there contain both the sweet and the savory, with briny, smokey notes jostling with fruit, toffee and vanilla. There are only three distilleries left here, including old Glengyle, which was founded in 1872, shuttered in 1925, and was just reopened in its   original location in 2004.",
+      "average_ratings":
+      [
+        {
+          "name": "body",
+          "score": 2
+        },
+        {
+          "name": "honey",
+          "score": 1.5
+        },
+        {
+          "name": "floral",
+          "score": 1
+        },
+        {
+          "name": "fruity",
+          "score": 0.5
+        },
+        {
+          "name": "malty",
+          "score": 1.5
+        },
+        {
+          "name": "medicinal",
+          "score": 2
+        },
+        {
+          "name": "nutty",
+          "score": 2
+        },
+        {
+          "name": "smokey",
+          "score": 2
+        },
+        {
+          "name": "spicy",
+          "score": 1
+        },
+        {
+          "name": "sweet",
+          "score": 2
+        },
+        {
+          "name": "tobacco",
+          "score": 0
+        },
+        {
+          "name": "winey",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

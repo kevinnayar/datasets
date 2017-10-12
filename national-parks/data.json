@@ -1,0 +1,649 @@
+[{
+  "title": "Acadia",
+  "states": [ "Maine" ],
+  "coordinates": {
+    "latitude": 44.35,
+    "longitude": -68.21
+  },
+  "date_established": "February 26, 1919",
+  "area": "49,057.36 acres (198.5&nbsp;km<sup>2</sup>)",
+  "visitors": "3,303,393"
+},
+{
+  "title": "American Samoa",
+  "states": [ "American_Samoa" ],
+  "coordinates": {
+    "latitude": -14.25,
+    "longitude": -170.68
+  },
+  "date_established": "October 31, 1988",
+  "area": "8,256.67 acres (33.4&nbsp;km<sup>2</sup>)",
+  "visitors": "28,892"
+},
+{
+  "title": "Arches",
+  "states": [ "Utah" ],
+  "coordinates": {
+    "latitude": 38.68,
+    "longitude": -109.57
+  },
+  "date_established": "November 12, 1971",
+  "area": "76,678.98 acres (310.3&nbsp;km<sup>2</sup>)",
+  "visitors": "1,585,718"
+},
+{
+  "title": "Badlands",
+  "states": [ "South_Dakota" ],
+  "coordinates": {
+    "latitude": 43.75,
+    "longitude": -102.50
+  },
+  "date_established": "November 10, 1978",
+  "area": "242,755.94 acres (982.4&nbsp;km<sup>2</sup>)",
+  "visitors": "996,263"
+},
+{
+  "title": "Big Bend",
+  "states": [ "Texas" ],
+  "coordinates": {
+    "latitude": 29.25,
+    "longitude": -103.25
+  },
+  "date_established": "June 12, 1944",
+  "area": "801,163.21 acres (3,242.2&nbsp;km<sup>2</sup>)",
+  "visitors": "388,290"
+},
+{
+  "title": "Biscayne",
+  "states": [ "Florida" ],
+  "coordinates": {
+    "latitude": 25.65,
+    "longitude": -80.08
+  },
+  "date_established": "June 28, 1980",
+  "area": "172,971.11 acres (700.0&nbsp;km<sup>2</sup>)",
+  "visitors": "514,709"
+},
+{
+  "title": "Black Canyon of the Gunnison",
+  "states": [ "Colorado" ],
+  "coordinates": {
+    "latitude": 38.57,
+    "longitude": -107.72
+  },
+  "date_established": "October 21, 1999",
+  "area": "30,749.75 acres (124.4&nbsp;km<sup>2</sup>)",
+  "visitors": "238,018"
+},
+{
+  "title": "Bryce Canyon",
+  "states": [ "Utah" ],
+  "coordinates": {
+    "latitude": 37.57,
+    "longitude": -112.18
+  },
+  "date_established": "February 25, 1928",
+  "area": "35,835.08 acres (145.0&nbsp;km<sup>2</sup>)",
+  "visitors": "2,365,110"
+},
+{
+  "title": "Canyonlands",
+  "states": [ "Utah" ],
+  "coordinates": {
+    "latitude": 38.2,
+    "longitude": -109.93
+  },
+  "date_established": "September 12, 1964",
+  "area": "337,597.83 acres (1,366.2&nbsp;km<sup>2</sup>)",
+  "visitors": "776,218"
+},
+{
+  "title": "Capitol Reef",
+  "states": [ "Utah" ],
+  "coordinates": {
+    "latitude": 38.20,
+    "longitude": -111.17
+  },
+  "date_established": "December 18, 1971",
+  "area": "241,904.26 acres (979.0&nbsp;km<sup>2</sup>)",
+  "visitors": "1,064,904"
+},
+{
+  "title": "Carlsbad Caverns",
+  "states": [ "New_Mexico" ],
+  "coordinates": {
+    "latitude": 32.17,
+    "longitude": -104.44
+  },
+  "date_established": "May 14, 1930",
+  "area": "46,766.45 acres (189.3&nbsp;km<sup>2</sup>)",
+  "visitors": "466,773"
+},
+{
+  "title": "Channel Islands",
+  "states": [ "California" ],
+  "coordinates": {
+    "latitude": 34.01,
+    "longitude": -119.42
+  },
+  "date_established": "March 5, 1980",
+  "area": "249,561.00 acres (1,009.9&nbsp;km<sup>2</sup>)",
+  "visitors": "364,807"
+},
+{
+  "title": "Congaree",
+  "states": [ "South_Carolina" ],
+  "coordinates": {
+    "latitude": 33.78,
+    "longitude": -80.78
+  },
+  "date_established": "November 10, 2003",
+  "area": "26,275.82 acres (106.3&nbsp;km<sup>2</sup>)",
+  "visitors": "143,843"
+},
+{
+  "title": "Crater Lake",
+  "states": [ "Oregon" ],
+  "coordinates": {
+    "latitude": 42.94,
+    "longitude": -122.1
+  },
+  "date_established": "May 22, 1902",
+  "area": "183,224.05 acres (741.5&nbsp;km<sup>2</sup>)",
+  "visitors": "756,344"
+},
+{
+  "title": "Cuyahoga Valley",
+  "states": [ "Ohio" ],
+  "coordinates": {
+    "latitude": 41.24,
+    "longitude": -81.55
+  },
+  "date_established": "October 11, 2000",
+  "area": "32,572.35 acres (131.8&nbsp;km<sup>2</sup>)",
+  "visitors": "2,423,390"
+},
+{
+  "title": "Death Valley",
+  "states": [ "California", "Nevada" ],
+  "coordinates": {
+    "latitude": 36.24,
+    "longitude": -116.82
+  },
+  "date_established": "October 31, 1994",
+  "area": "3,373,063.14 acres (13,650.3&nbsp;km<sup>2</sup>)",
+  "visitors": "1,296,283"
+},
+{
+  "title": "Denali",
+  "states": [ "Alaska" ],
+  "coordinates": {
+    "latitude": 63.33,
+    "longitude": -150.50
+  },
+  "date_established": "February 26, 1917",
+  "area": "4,740,911.16 acres (19,185.8&nbsp;km<sup>2</sup>)",
+  "visitors": "587,412"
+},
+{
+  "title": "Dry Tortugas",
+  "states": [ "Florida" ],
+  "coordinates": {
+    "latitude": 24.63,
+    "longitude": -82.87
+  },
+  "date_established": "October 26, 1992",
+  "area": "64,701.22 acres (261.8&nbsp;km<sup>2</sup>)",
+  "visitors": "73,661"
+},
+{
+  "title": "Everglades",
+  "states": [ "Florida" ],
+  "coordinates": {
+    "latitude": 25.32,
+    "longitude": -80.93
+  },
+  "date_established": "May 30, 1934",
+  "area": "1,508,968.1 acres (6,106.6&nbsp;km<sup>2</sup>)",
+  "visitors": "930,907"
+},
+{
+  "title": "Gates of the Arctic",
+  "states": [ "Alaska" ],
+  "coordinates": {
+    "latitude": 67.78,
+    "longitude": -153.30
+  },
+  "date_established": "December 2, 1980",
+  "area": "7,523,897.45 acres (30,448.1&nbsp;km<sup>2</sup>)",
+  "visitors": "10,047"
+},
+{
+  "title": "Glacier",
+  "states": [ "Montana" ],
+  "coordinates": {
+    "latitude": 48.80,
+    "longitude": -114.00
+  },
+  "date_established": "May 11, 1910",
+  "area": "1,013,128.94 acres (4,100.0&nbsp;km<sup>2</sup>)",
+  "visitors": "2,946,681"
+},
+{
+  "title": "Glacier Bay",
+  "states": [ "Alaska" ],
+  "coordinates": {
+    "latitude": 58.50,
+    "longitude": -137.00
+  },
+  "date_established": "December 2, 1980",
+  "area": "3,223,383.43 acres (13,044.6&nbsp;km<sup>2</sup>)",
+  "visitors": "520,171"
+},
+{
+  "title": "Grand Canyon",
+  "states": [ "Arizona" ],
+  "coordinates": {
+    "latitude": 36.06,
+    "longitude": -112.14
+  },
+  "date_established": "February 26, 1919",
+  "area": "1,201,647.03 acres (4,862.9&nbsp;km<sup>2</sup>)",
+  "visitors": "5,969,811"
+},
+{
+  "title": "Grand Teton",
+  "states": [ "Wyoming" ],
+  "coordinates": {
+    "latitude": 43.73,
+    "longitude": -110.80
+  },
+  "date_established": "February 26, 1929",
+  "area": "310,043.96 acres (1,254.7&nbsp;km<sup>2</sup>)",
+  "visitors": "3,270,076"
+},
+{
+  "title": "Great Basin",
+  "states": [ "Nevada" ],
+  "coordinates": {
+    "latitude": 38.98,
+    "longitude": -114.30
+  },
+  "date_established": "October 27, 1986",
+  "area": "77,180.00 acres (312.3&nbsp;km<sup>2</sup>)",
+  "visitors": "144,846"
+},
+{
+  "title": "Great Sand Dunes",
+  "states": [ "Colorado" ],
+  "coordinates": {
+    "latitude": 37.73,
+    "longitude": -105.51
+  },
+  "date_established": "September 13, 2004",
+  "area": "107,341.87 acres (434.4&nbsp;km<sup>2</sup>)",
+  "visitors": "388,308"
+},
+{
+  "title": "Great Smoky Mountains",
+  "states": [ "Tennessee", "North Carolina" ],
+  "coordinates": {
+    "latitude": 35.68,
+    "longitude": -83.53
+  },
+  "date_established": "June 15, 1934",
+  "area": "522,426.88 acres (2,114.2&nbsp;km<sup>2</sup>)",
+  "visitors": "11,312,786"
+},
+{
+  "title": "Guadalupe Mountains",
+  "states": [ "Texas" ],
+  "coordinates": {
+    "latitude": 31.92,
+    "longitude": -104.87
+  },
+  "date_established": "October 15, 1966",
+  "area": "86,367.10 acres (349.5&nbsp;km<sup>2</sup>)",
+  "visitors": "181,839"
+},
+{
+  "title": "Haleakalā",
+  "states": [ "Hawaii" ],
+  "coordinates": {
+    "latitude": 20.72,
+    "longitude": -156.17
+  },
+  "date_established": "August 1, 1916",
+  "area": "33,264.62 acres (134.6&nbsp;km<sup>2</sup>)",
+  "visitors": "1,263,558"
+},
+{
+  "title": "Hawaiʻi Volcanoes",
+  "states": [ "Hawaii" ],
+  "coordinates": {
+    "latitude": 19.38,
+    "longitude": -155.20
+  },
+  "date_established": "August 1, 1916",
+  "area": "323,431.38 acres (1,308.9&nbsp;km<sup>2</sup>)",
+  "visitors": "1,887,580"
+},
+{
+  "title": "Hot Springs",
+  "states": [ "Arkansas" ],
+  "coordinates": {
+    "latitude": 34.51,
+    "longitude": -93.05
+  },
+  "date_established": "March 4, 1921",
+  "area": "5,549.10 acres (22.5&nbsp;km<sup>2</sup>)",
+  "visitors": "1,544,300"
+},
+{
+  "title": "Isle Royale",
+  "states": [ "Michigan" ],
+  "coordinates": {
+    "latitude": 48.10,
+    "longitude": -88.55
+  },
+  "date_established": "April 3, 1940",
+  "area": "571,790.11 acres (2,314.0&nbsp;km<sup>2</sup>)",
+  "visitors": "24,966"
+},
+{
+  "title": "Joshua Tree",
+  "states": [ "California" ],
+  "coordinates": {
+    "latitude": 33.79,
+    "longitude": -115.90
+  },
+  "date_established": "October 31, 1994",
+  "area": "790,635.74 acres (3,199.6&nbsp;km<sup>2</sup>)",
+  "visitors": "2,505,286"
+},
+{
+  "title": "Katmai",
+  "states": [ "Alaska" ],
+  "coordinates": {
+    "latitude": 58.50,
+    "longitude": -155.00
+  },
+  "date_established": "December 2, 1980",
+  "area": "3,674,529.33 acres (14,870.3&nbsp;km<sup>2</sup>)",
+  "visitors": "37,818"
+},
+{
+  "title": "Kenai Fjords",
+  "states": [ "Alaska" ],
+  "coordinates": {
+    "latitude": 59.92,
+    "longitude": -149.65
+  },
+  "date_established": "December 2, 1980",
+  "area": "669,983.65 acres (2,711.3&nbsp;km<sup>2</sup>)",
+  "visitors": "346,534"
+},
+{
+  "title": "Kings Canyon",
+  "states": [ "California" ],
+  "coordinates": {
+    "latitude": 36.80,
+    "longitude": -118.55
+  },
+  "date_established": "March 4, 1940",
+  "area": "461,901.20 acres (1,869.2&nbsp;km<sup>2</sup>)",
+  "visitors": "607,479"
+},
+{
+  "title": "Kobuk Valley",
+  "states": [ "Alaska" ],
+  "coordinates": {
+    "latitude": 67.55,
+    "longitude": -159.28
+  },
+  "date_established": "December 2, 1980",
+  "area": "1,750,716.16 acres (7,084.9&nbsp;km<sup>2</sup>)",
+  "visitors": "15,500"
+},
+{
+  "title": "Lake Clark",
+  "states": [ "Alaska" ],
+  "coordinates": {
+    "latitude": 60.97,
+    "longitude": -153.42
+  },
+  "date_established": "December 2, 1980",
+  "area": "2,619,816.49 acres (10,602.0&nbsp;km<sup>2</sup>)",
+  "visitors": "21,102"
+},
+{
+  "title": "Lassen Volcanic",
+  "states": [ "California" ],
+  "coordinates": {
+    "latitude": 40.49,
+    "longitude": -121.51
+  },
+  "date_established": "August 9, 1916",
+  "area": "106,589.02 acres (431.4&nbsp;km<sup>2</sup>)",
+  "visitors": "536,068"
+},
+{
+  "title": "Mammoth Cave",
+  "states": [ "Kentucky" ],
+  "coordinates": {
+    "latitude": 37.18,
+    "longitude": -86.10
+  },
+  "date_established": "July 1, 1941",
+  "area": "52,830.19 acres (213.8&nbsp;km<sup>2</sup>)",
+  "visitors": "586,514"
+},
+{
+  "title": "Mesa Verde",
+  "states": [ "Colorado" ],
+  "coordinates": {
+    "latitude": 37.18,
+    "longitude": -108.49
+  },
+  "date_established": "June 29, 1906",
+  "area": "52,485.17 acres (212.4&nbsp;km<sup>2</sup>)",
+  "visitors": "583,527"
+},
+{
+  "title": "Mount Rainier",
+  "states": [ "Washington_" ],
+  "coordinates": {
+    "latitude": 46.85,
+    "longitude": -121.75
+  },
+  "date_established": "March 2, 1899",
+  "area": "236,381.64 acres (956.6&nbsp;km<sup>2</sup>)",
+  "visitors": "1,356,913"
+},
+{
+  "title": "North Cascades",
+  "states": [ "Washington_" ],
+  "coordinates": {
+    "latitude": 48.70,
+    "longitude": -121.20
+  },
+  "date_established": "October 2, 1968",
+  "area": "504,780.94 acres (2,042.8&nbsp;km<sup>2</sup>)",
+  "visitors": "28,646"
+},
+{
+  "title": "Olympic",
+  "states": [ "Washington_" ],
+  "coordinates": {
+    "latitude": 47.97,
+    "longitude": -123.50
+  },
+  "date_established": "June 29, 1938",
+  "area": "922,650.10 acres (3,733.8&nbsp;km<sup>2</sup>)",
+  "visitors": "3,390,221"
+},
+{
+  "title": "Petrified Forest",
+  "states": [ "Arizona" ],
+  "coordinates": {
+    "latitude": 35.07,
+    "longitude": -109.78
+  },
+  "date_established": "December 9, 1962",
+  "area": "221,415.77 acres (896.0&nbsp;km<sup>2</sup>)",
+  "visitors": "643,274"
+},
+{
+  "title": "Pinnacles",
+  "states": [ "California" ],
+  "coordinates": {
+    "latitude": 36.48,
+    "longitude": -121.16
+  },
+  "date_established": "January 10, 2013",
+  "area": "26,685.73 acres (108.0&nbsp;km<sup>2</sup>)",
+  "visitors": "215,555"
+},
+{
+  "title": "Redwood",
+  "states": [ "California" ],
+  "coordinates": {
+    "latitude": 41.30,
+    "longitude": -124.00
+  },
+  "date_established": "October 2, 1968",
+  "area": "138,999.37 acres (562.5&nbsp;km<sup>2</sup>)",
+  "visitors": "536,297"
+},
+{
+  "title": "Rocky Mountain",
+  "states": [ "Colorado" ],
+  "coordinates": {
+    "latitude": 40.40,
+    "longitude": -105.58
+  },
+  "date_established": "January 26, 1915",
+  "area": "265,795.20 acres (1,075.6&nbsp;km<sup>2</sup>)",
+  "visitors": "4,517,585"
+},
+{
+  "title": "Saguaro",
+  "states": [ "Arizona" ],
+  "coordinates": {
+    "latitude": 32.25,
+    "longitude": -110.50
+  },
+  "date_established": "October 14, 1994",
+  "area": "91,715.72 acres (371.2&nbsp;km<sup>2</sup>)",
+  "visitors": "820,426"
+},
+{
+  "title": "Sequoia",
+  "states": [ "California" ],
+  "coordinates": {
+    "latitude": 36.43,
+    "longitude": -118.68
+  },
+  "date_established": "September 25, 1890",
+  "area": "404,062.63 acres (1,635.2&nbsp;km<sup>2</sup>)",
+  "visitors": "1,254,688"
+},
+{
+  "title": "Shenandoah",
+  "states": [ "Virginia" ],
+  "coordinates": {
+    "latitude": 38.53,
+    "longitude": -78.35
+  },
+  "date_established": "December 26, 1935",
+  "area": "199,195.27 acres (806.1&nbsp;km<sup>2</sup>)",
+  "visitors": "1,437,341"
+},
+{
+  "title": "Theodore Roosevelt",
+  "states": [ "North_Dakota" ],
+  "coordinates": {
+    "latitude": 46.97,
+    "longitude": -103.45
+  },
+  "date_established": "November 10, 1978",
+  "area": "70,446.89 acres (285.1&nbsp;km<sup>2</sup>)",
+  "visitors": "753,880"
+},
+{
+  "title": "Virgin Islands",
+  "states": [ "United_States_Virgin_Islands" ],
+  "coordinates": {
+    "latitude": 18.33,
+    "longitude": -64.73
+  },
+  "date_established": "August 2, 1956",
+  "area": "14,948.46 acres (60.5&nbsp;km<sup>2</sup>)",
+  "visitors": "411,343"
+},
+{
+  "title": "Voyageurs",
+  "states": [ "Minnesota" ],
+  "coordinates": {
+    "latitude": 48.50,
+    "longitude": -92.88
+  },
+  "date_established": "January 8, 1971",
+  "area": "218,200.15 acres (883.0&nbsp;km<sup>2</sup>)",
+  "visitors": "241,912"
+},
+{
+  "title": "Wind Cave",
+  "states": [ "South_Dakota" ],
+  "coordinates": {
+    "latitude": 43.57,
+    "longitude": -103.48
+  },
+  "date_established": "January 9, 1903",
+  "area": "33,970.84 acres (137.5&nbsp;km<sup>2</sup>)",
+  "visitors": "617,377"
+},
+{
+  "title": "Wrangell–St. Elias",
+  "states": [ "Alaska" ],
+  "coordinates": {
+    "latitude": 61.00,
+    "longitude": -142.00
+  },
+  "date_established": "December 2, 1980",
+  "area": "8,323,146.48 acres (33,682.6&nbsp;km<sup>2</sup>)",
+  "visitors": "79,047"
+},
+{
+  "title": "Yellowstone",
+  "states": [ "Wyoming", "Montana", "Idaho" ],
+  "coordinates": {
+    "latitude": 44.60,
+    "longitude": -110.50
+  },
+  "date_established": "March 1, 1872",
+  "area": "2,219,790.71 acres (8,983.2&nbsp;km<sup>2</sup>)",
+  "visitors": "4,257,177"
+},
+{
+  "title": "Yosemite",
+  "states": [ "California" ],
+  "coordinates": {
+    "latitude": 37.83,
+    "longitude": -119.50
+  },
+  "date_established": "October 1, 1890",
+  "area": "761,747.50 acres (3,082.7&nbsp;km<sup>2</sup>)",
+  "visitors": "5,028,868"
+},
+{
+  "title": "Zion",
+  "states": [ "Utah" ],
+  "coordinates": {
+    "latitude": 37.30,
+    "longitude": -113.05
+  },
+  "date_established": "November 19, 1919",
+  "area": "147,237.02 acres (595.8&nbsp;km<sup>2</sup>)",
+  "visitors": "4,295,127"
+}]

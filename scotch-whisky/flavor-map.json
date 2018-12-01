@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Aberfeldy",
+    "region": "highlands",
+    "latitude": 56.63126,
+    "longitude": -3.846331,
+    "flavor_coordinates": {
+      "x": -0.67,
+      "y": 0
+    }
+  },
+  {
+    "name": "Aberlour",
+    "region": "speyside",
+    "latitude": 57.473343,
+    "longitude": -3.225775,
+    "flavor_coordinates": {
+      "x": -2.17,
+      "y": 0.83
+    }
+  },
+  {
+    "name": "Ardbeg",
+    "region": "islay",
+    "latitude": 55.648052,
+    "longitude": -6.107969,
+    "flavor_coordinates": {
+      "x": 3,
+      "y": 0.67
+    }
+  },
+  {
+    "name": "Ardmore",
+    "region": "speyside",
+    "latitude": 57.35607,
+    "longitude": -2.738857,
+    "flavor_coordinates": {
+      "x": -0.33,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Arran",
+    "region": "highlands",
+    "latitude": 55.698425,
+    "longitude": -5.275512,
+    "flavor_coordinates": {
+      "x": -0.67,
+      "y": -0.17
+    }
+  },
+  {
+    "name": "Auchentoshan",
+    "region": "lowlands",
+    "latitude": 55.928623,
+    "longitude": -4.435472,
+    "flavor_coordinates": {
+      "x": -1,
+      "y": -1.17
+    }
+  },
+  {
+    "name": "Auchroisk",
+    "region": "speyside",
+    "latitude": 57.53868,
+    "longitude": -2.963562,
+    "flavor_coordinates": {
+      "x": -1.5,
+      "y": 0.5
+    }
+  },
+  {
+    "name": "Aultmore",
+    "region": "speyside",
+    "latitude": 57.66386,
+    "longitude": -2.508574,
+    "flavor_coordinates": {
+      "x": -0.17,
+      "y": -0.33
+    }
+  },
+  {
+    "name": "Balblair",
+    "region": "highlands",
+    "latitude": 57.839634,
+    "longitude": -4.171543,
+    "flavor_coordinates": {
+      "x": -0.17,
+      "y": 0.33
+    }
+  },
+  {
+    "name": "Balmenach",
+    "region": "speyside",
+    "latitude": 57.33129,
+    "longitude": -3.529701,
+    "flavor_coordinates": {
+      "x": -1.33,
+      "y": 1.33
+    }
+  },
+  {
+    "name": "Balvenie",
+    "region": "speyside",
+    "latitude": 57.45843,
+    "longitude": -3.119516,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": 0.67
+    }
+  },
+  {
+    "name": "Ben Nevis",
+    "region": "highlands",
+    "latitude": 56.840992,
+    "longitude": -5.06959,
+    "flavor_coordinates": {
+      "x": -0.33,
+      "y": 0.67
+    }
+  },
+  {
+    "name": "Benriach",
+    "region": "speyside",
+    "latitude": 57.61443,
+    "longitude": -3.278818,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": 0.33
+    }
+  },
+  {
+    "name": "Benrinnes",
+    "region": "speyside",
+    "latitude": 57.44906,
+    "longitude": -3.233843,
+    "flavor_coordinates": {
+      "x": -0.33,
+      "y": 0.17
+    }
+  },
+  {
+    "name": "Benromach",
+    "region": "speyside",
+    "latitude": 57.6193,
+    "longitude": -3.615875,
+    "flavor_coordinates": {
+      "x": -0.67,
+      "y": 0
+    }
+  },
+  {
+    "name": "Bladnoch",
+    "region": "lowlands",
+    "latitude": 54.864555,
+    "longitude": -4.455042,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": -1.5
+    }
+  },
+  {
+    "name": "Blair Athol",
+    "region": "highlands",
+    "latitude": 56.703846,
+    "longitude": -3.714409,
+    "flavor_coordinates": {
+      "x": -1,
+      "y": -0.33
+    }
+  },
+  {
+    "name": "Bowmore",
+    "region": "islay",
+    "latitude": 55.757137,
+    "longitude": -6.2898445,
+    "flavor_coordinates": {
+      "x": 0.33,
+      "y": 0.17
+    }
+  },
+  {
+    "name": "Bruichladdich",
+    "region": "islay",
+    "latitude": 55.745472,
+    "longitude": -6.374216,
+    "flavor_coordinates": {
+      "x": 0.67,
+      "y": -0.33
+    }
+  },
+  {
+    "name": "Bunnahabhain",
+    "region": "islay",
+    "latitude": 55.76599,
+    "longitude": -6.233428,
+    "flavor_coordinates": {
+      "x": -0.33,
+      "y": -1.17
+    }
+  },
+  {
+    "name": "Caol Ila",
+    "region": "islay",
+    "latitude": 55.85359,
+    "longitude": -6.111875,
+    "flavor_coordinates": {
+      "x": 2,
+      "y": 0.33
+    }
+  },
+  {
+    "name": "Cardhu",
+    "region": "speyside",
+    "latitude": 57.47671,
+    "longitude": -3.351774,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Clynelish",
+    "region": "highlands",
+    "latitude": 58.029648,
+    "longitude": -3.866158,
+    "flavor_coordinates": {
+      "x": 1.67,
+      "y": 1.17
+    }
+  },
+  {
+    "name": "Cragganmore",
+    "region": "speyside",
+    "latitude": 57.41524,
+    "longitude": -3.382244,
+    "flavor_coordinates": {
+      "x": 0.17,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Craigellachie",
+    "region": "speyside",
+    "latitude": 57.493645,
+    "longitude": -3.18655,
+    "flavor_coordinates": {
+      "x": -0.67,
+      "y": -1.33
+    }
+  },
+  {
+    "name": "Dailuaine",
+    "region": "speyside",
+    "latitude": 57.458527,
+    "longitude": -3.272295,
+    "flavor_coordinates": {
+      "x": -1,
+      "y": 0.83
+    }
+  },
+  {
+    "name": "Dalmore",
+    "region": "highlands",
+    "latitude": 57.6941,
+    "longitude": -4.235315,
+    "flavor_coordinates": {
+      "x": -0.5,
+      "y": 0.83
+    }
+  },
+  {
+    "name": "Dalwhinnie",
+    "region": "highlands",
+    "latitude": 56.94165,
+    "longitude": -4.240808,
+    "flavor_coordinates": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "name": "Deanston",
+    "region": "highlands",
+    "latitude": 56.19557,
+    "longitude": -4.067259,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": 0
+    }
+  },
+  {
+    "name": "Edradour",
+    "region": "highlands",
+    "latitude": 56.707287,
+    "longitude": -3.696814,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": 0
+    }
+  },
+  {
+    "name": "Glen Elgin",
+    "region": "speyside",
+    "latitude": 57.70305,
+    "longitude": -3.299332,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": 0
+    }
+  },
+  {
+    "name": "Glen Garioch",
+    "region": "highlands",
+    "latitude": 57.338085,
+    "longitude": -2.31937,
+    "flavor_coordinates": {
+      "x": -0.17,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Glen Grant",
+    "region": "speyside",
+    "latitude": 57.53596,
+    "longitude": -3.206549,
+    "flavor_coordinates": {
+      "x": -1,
+      "y": 0.33
+    }
+  },
+  {
+    "name": "Glen Moray",
+    "region": "speyside",
+    "latitude": 57.649166,
+    "longitude": -3.340874,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": -1.67
+    }
+  },
+  {
+    "name": "Glen Ord",
+    "region": "highlands",
+    "latitude": 57.529465,
+    "longitude": -4.472208,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": 0
+    }
+  },
+  {
+    "name": "Glen Scotia",
+    "region": "campbeltown",
+    "latitude": 55.43607,
+    "longitude": -5.599852,
+    "flavor_coordinates": {
+      "x": 1,
+      "y": -0.17
+    }
+  },
+  {
+    "name": "Glen Spey",
+    "region": "speyside",
+    "latitude": 57.532597,
+    "longitude": -3.203974,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": -1.67
+    }
+  },
+  {
+    "name": "Glenallachie",
+    "region": "speyside",
+    "latitude": 57.46194,
+    "longitude": -3.223286,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Glendronach",
+    "region": "speyside",
+    "latitude": 57.490692,
+    "longitude": -2.625389,
+    "flavor_coordinates": {
+      "x": -1.33,
+      "y": 1.67
+    }
+  },
+  {
+    "name": "Glendullan",
+    "region": "speyside",
+    "latitude": 57.453957,
+    "longitude": -3.114195,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": 0.67
+    }
+  },
+  {
+    "name": "Glenfarclas",
+    "region": "speyside",
+    "latitude": 57.432846,
+    "longitude": -3.31418,
+    "flavor_coordinates": {
+      "x": -2.5,
+      "y": -0.83
+    }
+  },
+  {
+    "name": "Glenfiddich",
+    "region": "speyside",
+    "latitude": 57.459404,
+    "longitude": -3.120632,
+    "flavor_coordinates": {
+      "x": -0.5,
+      "y": -1
+    }
+  },
+  {
+    "name": "Glengoyne",
+    "region": "highlands",
+    "latitude": 56.02746,
+    "longitude": -4.354706,
+    "flavor_coordinates": {
+      "x": -1.33,
+      "y": -0.33
+    }
+  },
+  {
+    "name": "Glenkinchie",
+    "region": "lowlands",
+    "latitude": 55.895912,
+    "longitude": -2.887087,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Glenlivet",
+    "region": "speyside",
+    "latitude": 57.34945,
+    "longitude": -3.334522,
+    "flavor_coordinates": {
+      "x": -1.83,
+      "y": -0.5
+    }
+  },
+  {
+    "name": "Glenlossie",
+    "region": "speyside",
+    "latitude": 57.60436,
+    "longitude": -3.315125,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Glenmorangie",
+    "region": "highlands",
+    "latitude": -59.57881,
+    "longitude": -3.010254,
+    "flavor_coordinates": {
+      "x": -0.33,
+      "y": 0.17
+    }
+  },
+  {
+    "name": "Glenrothes",
+    "region": "speyside",
+    "latitude": 57.532505,
+    "longitude": -3.205862,
+    "flavor_coordinates": {
+      "x": -1.5,
+      "y": 0.67
+    }
+  },
+  {
+    "name": "Glenturret",
+    "region": "highlands",
+    "latitude": 56.39661,
+    "longitude": -3.850451,
+    "flavor_coordinates": {
+      "x": -1.83,
+      "y": -0.33
+    }
+  },
+  {
+    "name": "Highland Park",
+    "region": "highlands",
+    "latitude": 58.97218,
+    "longitude": -2.95146,
+    "flavor_coordinates": {
+      "x": 0.67,
+      "y": 0.17
+    }
+  },
+  {
+    "name": "Inchgower",
+    "region": "speyside",
+    "latitude": 57.66749,
+    "longitude": -2.9597,
+    "flavor_coordinates": {
+      "x": -0.67,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Isle of Jura",
+    "region": "highlands",
+    "latitude": 55.8884,
+    "longitude": -5.918198,
+    "flavor_coordinates": {
+      "x": 1.33,
+      "y": 0.33
+    }
+  },
+  {
+    "name": "Knockando",
+    "region": "speyside",
+    "latitude": 57.462772,
+    "longitude": -3.33993,
+    "flavor_coordinates": {
+      "x": -1.5,
+      "y": 0.5
+    }
+  },
+  {
+    "name": "Lagavulin",
+    "region": "islay",
+    "latitude": 55.641853,
+    "longitude": -6.122046,
+    "flavor_coordinates": {
+      "x": 2.67,
+      "y": 1.17
+    }
+  },
+  {
+    "name": "Laphroaig",
+    "region": "islay",
+    "latitude": 55.63633,
+    "longitude": -6.14642,
+    "flavor_coordinates": {
+      "x": 3,
+      "y": 0.83
+    }
+  },
+  {
+    "name": "Linkwood",
+    "region": "speyside",
+    "latitude": 57.6533,
+    "longitude": -3.266029,
+    "flavor_coordinates": {
+      "x": -1.5,
+      "y": 0.5
+    }
+  },
+  {
+    "name": "Loch Lomond",
+    "region": "highlands",
+    "latitude": 55.999435,
+    "longitude": -4.57263,
+    "flavor_coordinates": {
+      "x": 0.33,
+      "y": -1
+    }
+  },
+  {
+    "name": "Longmorn",
+    "region": "speyside",
+    "latitude": 57.60793,
+    "longitude": -3.286829,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": -1
+    }
+  },
+  {
+    "name": "Macallan",
+    "region": "speyside",
+    "latitude": 57.490368,
+    "longitude": -3.202772,
+    "flavor_coordinates": {
+      "x": -2.17,
+      "y": 1.5
+    }
+  },
+  {
+    "name": "Mannochmore",
+    "region": "speyside",
+    "latitude": 57.60597,
+    "longitude": -3.31461,
+    "flavor_coordinates": {
+      "x": -0.5,
+      "y": 0.17
+    }
+  },
+  {
+    "name": "Miltonduff",
+    "region": "speyside",
+    "latitude": 57.63047,
+    "longitude": -3.363533,
+    "flavor_coordinates": {
+      "x": -0.83,
+      "y": -0.17
+    }
+  },
+  {
+    "name": "Mortlach",
+    "region": "speyside",
+    "latitude": 57.44998,
+    "longitude": -3.114882,
+    "flavor_coordinates": {
+      "x": -1.67,
+      "y": 0.83
+    }
+  },
+  {
+    "name": "Oban",
+    "region": "highlands",
+    "latitude": 56.421356,
+    "longitude": -5.46793,
+    "flavor_coordinates": {
+      "x": 0.67,
+      "y": 0.33
+    }
+  },
+  {
+    "name": "Pulteney",
+    "region": "highlands",
+    "latitude": 58.44293,
+    "longitude": -3.079262,
+    "flavor_coordinates": {
+      "x": 1,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Royal Lochnagar",
+    "region": "highlands",
+    "latitude": 57.04054,
+    "longitude": -3.214788,
+    "flavor_coordinates": {
+      "x": -1,
+      "y": 1.17
+    }
+  },
+  {
+    "name": "Scapa",
+    "region": "highlands",
+    "latitude": 58.969437,
+    "longitude": -2.981672,
+    "flavor_coordinates": {
+      "x": -0.33,
+      "y": 0
+    }
+  },
+  {
+    "name": "Speyburn",
+    "region": "speyside",
+    "latitude": 57.55305,
+    "longitude": -3.218565,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": -0.33
+    }
+  },
+  {
+    "name": "Springbank",
+    "region": "campbeltown",
+    "latitude": 55.43252,
+    "longitude": -5.604486,
+    "flavor_coordinates": {
+      "x": 0.33,
+      "y": 0.33
+    }
+  },
+  {
+    "name": "Strathisla",
+    "region": "speyside",
+    "latitude": 57.53868,
+    "longitude": -2.963562,
+    "flavor_coordinates": {
+      "x": -1.5,
+      "y": -0.17
+    }
+  },
+  {
+    "name": "Strathmill",
+    "region": "speyside",
+    "latitude": 57.546925,
+    "longitude": -2.955837,
+    "flavor_coordinates": {
+      "x": -1.17,
+      "y": 0.17
+    }
+  },
+  {
+    "name": "Talisker",
+    "region": "highlands",
+    "latitude": 57.306683,
+    "longitude": -6.348295,
+    "flavor_coordinates": {
+      "x": 1.33,
+      "y": 1.33
+    }
+  },
+  {
+    "name": "Tamnavulin",
+    "region": "speyside",
+    "latitude": 57.3243,
+    "longitude": -3.306456,
+    "flavor_coordinates": {
+      "x": -0.67,
+      "y": -1
+    }
+  },
+  {
+    "name": "Teaninich",
+    "region": "highlands",
+    "latitude": 57.69768,
+    "longitude": -4.256344,
+    "flavor_coordinates": {
+      "x": 0.17,
+      "y": 0.33
+    }
+  },
+  {
+    "name": "Tobermory",
+    "region": "highlands",
+    "latitude": 56.626728,
+    "longitude": -6.065826,
+    "flavor_coordinates": {
+      "x": 0.17,
+      "y": -0.67
+    }
+  },
+  {
+    "name": "Tomatin",
+    "region": "highlands",
+    "latitude": 57.346718,
+    "longitude": -4.006062,
+    "flavor_coordinates": {
+      "x": -1,
+      "y": -0.17
+    }
+  },
+  {
+    "name": "Tomintoul",
+    "region": "speyside",
+    "latitude": 57.318737,
+    "longitude": -3.407221,
+    "flavor_coordinates": {
+      "x": -1.5,
+      "y": -1
+    }
+  },
+  {
+    "name": "Tormore",
+    "region": "speyside",
+    "latitude": 57.403034,
+    "longitude": -3.409195,
+    "flavor_coordinates": {
+      "x": -0.5,
+      "y": 0.5
+    }
+  },
+  {
+    "name": "Tullibardine",
+    "region": "highlands",
+    "latitude": 56.26504,
+    "longitude": -3.778353,
+    "flavor_coordinates": {
+      "x": -2,
+      "y": -0.17
+    }
+  }
+]
